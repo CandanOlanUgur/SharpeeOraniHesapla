@@ -1,1 +1,2 @@
-# C dilinde Sharpee Oranı hesaplayan basit bir örnek
+# Sharpee Oranı Hesaplama
+-Bu program, C dilinde sharpee oranını bulmak için basit bir örnektir.
