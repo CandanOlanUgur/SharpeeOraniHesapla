@@ -40,7 +40,7 @@ int main(void) {
     printf("Sharpe orani = %lf\n", sharpee_orani);
 
     if (sharpee_orani < 1) {
-        printf("\n--> eger kotu\n");
+        printf("\n--> Deger kotu\n");
     }
 
     else if (sharpee_orani >= 1&& sharpee_orani < 2 ) {
